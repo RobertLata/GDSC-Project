@@ -1,0 +1,39 @@
+img {
+  width: 150px;
+}
+
+.header-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-text-container {
+  flex-direction: column;
+  margin-left: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-text-container1 {
+  font-family: 'Inter', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+
+  color: #676C73;
+}
+
+.header-text-container2 {
+  font-family: 'Inter', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #676C73;
+}
